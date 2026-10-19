@@ -26,6 +26,7 @@ Created pivot tables and charts to compare:
 
 ## Dashboard
 Created a dashboard with summary metrics, three charts, and key insights.
+![Bike Buyers Dashboard](Dashboard.png)
 
 ## Skills Demonstrated
 Data cleaning, formulas, pivot tables, data visualization, and communicating insights.
