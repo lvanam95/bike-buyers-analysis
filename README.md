@@ -33,3 +33,12 @@ Data cleaning, formulas, pivot tables, data visualization, and communicating ins
 
 ## Limitations
 These findings describe patterns in this dataset and do not establish what caused customers to purchase a bike.
+
+## Additional Analysis: Purchase Rate by Gender
+
+| Gender | Buyers | Total Customers | Purchase Rate |
+|---|---:|---:|---:|
+| Female | 239 | 489 | 48.9% |
+| Male | 242 | 511 | 47.4% |
+
+Although male buyers slightly outnumbered female buyers, the female purchase rate was slightly higher. The difference was approximately 1.5 percentage points, indicating similar purchase rates across both groups in this dataset.
